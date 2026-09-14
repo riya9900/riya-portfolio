@@ -529,7 +529,7 @@ export default function App() {
               <Github className="w-4 h-4" />
             </a>
             <a
-              href="https://linkedin.com/in/riya-kumari"
+              href="https://www.linkedin.com/in/riya-kumari-882a7527b/"
               target="_blank"
               rel="noreferrer"
               aria-label="LinkedIn Profile"
@@ -1248,7 +1248,7 @@ export default function App() {
             </a>
 
             <a
-              href="https://linkedin.com/in/riya-kumari"
+              href="https://www.linkedin.com/in/riya-kumari-882a7527b/"
               target="_blank"
               rel="noreferrer"
               className="glass-card p-5 rounded-xl flex items-center gap-4 block hover:border-white/30 transition-all group"
@@ -1258,7 +1258,7 @@ export default function App() {
               </div>
               <div>
                 <p className="text-xs font-mono text-white/50 uppercase">LinkedIn Profile</p>
-                <p className="text-sm font-medium text-white">linkedin.com/in/riya-kumari</p>
+                <p className="text-sm font-medium text-white">linkedin.com/in/riya-kumari-882a7527b/</p>
               </div>
             </a>
 
@@ -1425,7 +1425,7 @@ export default function App() {
                 <Github className="w-4 h-4" />
               </a>
               <a
-                href="https://linkedin.com/in/riya-kumari"
+                href="https://www.linkedin.com/in/riya-kumari-882a7527b/"
                 target="_blank"
                 rel="noreferrer"
                 className="text-white/70 hover:text-white transition-colors"
